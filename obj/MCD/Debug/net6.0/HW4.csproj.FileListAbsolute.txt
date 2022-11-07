@@ -1,0 +1,15 @@
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\bin\MCD\Debug\net6.0\HW4.exe
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\bin\MCD\Debug\net6.0\HW4.deps.json
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\bin\MCD\Debug\net6.0\HW4.runtimeconfig.json
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\bin\MCD\Debug\net6.0\HW4.dll
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\bin\MCD\Debug\net6.0\HW4.pdb
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.csproj.AssemblyReference.cache
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.AssemblyInfoInputs.cache
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.AssemblyInfo.cs
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.dll
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\refint\HW4.dll
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.pdb
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\HW4.genruntimeconfig.cache
+C:\Users\орр\Desktop\GitBash\2. Programms\lesson4\HW4\obj\MCD\Debug\net6.0\ref\HW4.dll
