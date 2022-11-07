@@ -30,13 +30,13 @@
 // _____________________________________________________________________
 //  Задача 29: Напишите программу, которая задаёт массив из 8 элементов с клавиатуры и выводит массив на экран.
 
-// void FillArray (int [] collection)
+// void FillArray (int [] collection) //  Метод для создания рандомного массива. 
 // {
 //     int length = collection.Length;
 //     int index = 0;
 //     while (index<length) 
 //     {
-//         collection[index] = new Random().Next(0, 101); 
+//         collection[index] = new Random().Next(1, 100); 
 //         index++;
 //     }
 // }
@@ -46,24 +46,23 @@
 //     int position = 0;
 //     while(position<count)
 //     {
-//         Console.Write (col[position]+" ");
+//         Console.Write (col[position]+ " ");
 //         position++;
 //     }
 // }
-// Console.WriteLine("Введите цифру 8");
-// int x = Convert.ToInt32(Console.ReadLine());
-// int [] array = new int [x];   
 
+// int [] array = new int [8]; 
 // FillArray(array);
 // PrintArray(array);
 
+
 // Задача 26. - HARD необязательная Напишите программу, которая принимает на вход целое или дробное число и выдаёт количество цифр в числе.
 
-//Сдвигать запятую вправо, пока x не станет меньше 1. Получим 0,xxxx. Потом, пока
+// Сдвигать запятую вправо, пока x не станет меньше 1. Получим 0,xxxx. Потом, пока
 
-// double x = Convert.ToInt32(Console.ReadLine());
-// while (x>1) x=x/10;
-// while (x*10<1) x=x/10;
+double x = Convert.ToInt32(Console.ReadLine());
+while (x>1) x=x/10;
+while (x*10<1) x=x/10;
 
 double Razryad (double x) // Функция: счетчик разрядности числа
 {
@@ -93,16 +92,6 @@ Console.WriteLine(Razryad(n));
 //         index++;
 //     }
 // }
-// void PrintArray(int[] col)
-// {
-//     int count = col.Length;
-//     int position = 0;
-//     while (position < count)
-//     {
-//         Console.Write(col[position] + " ");
-//         position++;
-//     }
-// }
 // int CountZero(int[] x)
 // {
 //     for (int i = 0; i <= x.Length; i++)
@@ -112,7 +101,16 @@ Console.WriteLine(Razryad(n));
 //         return count;
 //     }
 // }
-
+// Console.WriteLine();
+// void PrintArray(int[] col)
+// {
+//     int position = 0;
+//     while (position < count)
+//     {
+//         Console.Write(col[position] + " ");
+//         position++;
+//     }
+// }
 // int[] array = new int[8];
 // FillArray(array);
 // PrintArray(array);

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\орр\\Desktop\\GitBash\\2. Programms\\lesson4\\HW4\\HW4.csproj": {}
+    "C:\\Users\\1\\Desktop\\GB\\VSC\\2. Programms\\lesson4\\HW4\\HW4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\орр\\Desktop\\GitBash\\2. Programms\\lesson4\\HW4\\HW4.csproj": {
+    "C:\\Users\\1\\Desktop\\GB\\VSC\\2. Programms\\lesson4\\HW4\\HW4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\орр\\Desktop\\GitBash\\2. Programms\\lesson4\\HW4\\HW4.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\GB\\VSC\\2. Programms\\lesson4\\HW4\\HW4.csproj",
         "projectName": "HW4",
-        "projectPath": "C:\\Users\\орр\\Desktop\\GitBash\\2. Programms\\lesson4\\HW4\\HW4.csproj",
-        "packagesPath": "C:\\Users\\орр\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\орр\\Desktop\\GitBash\\2. Programms\\lesson4\\HW4\\obj\\",
+        "projectPath": "C:\\Users\\1\\Desktop\\GB\\VSC\\2. Programms\\lesson4\\HW4\\HW4.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\GB\\VSC\\2. Programms\\lesson4\\HW4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\орр\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
